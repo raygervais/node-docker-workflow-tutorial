@@ -1,5 +1,5 @@
 #!/bin/bash -e 
-
+# ex: build.sh  -u test -n node_test
 
 while getopts u:n: option
 do

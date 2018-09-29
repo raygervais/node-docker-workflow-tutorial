@@ -1,5 +1,5 @@
 #!/bin/bash -e 
-
+# ex: run.sh -u test -n node_test -p 8080
 
 while getopts u:n:p: option
 do
